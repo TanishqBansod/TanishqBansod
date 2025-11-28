@@ -35,4 +35,5 @@ I like to innovate and learn things. I build aesthetic and functional apps. Love
 
 🔗 LinkedIn: https://www.linkedin.com/in/tanishq-bansod/
 
-📂 Check out my repositories below!!
+
+# 📂 Check out my repositories below!!
